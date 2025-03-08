@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="app_name" translatable="false">Meu app em Português</string>
+    <string name="init_text">Olá, Mundo! \nBem-vindo ao Brasil.</string>
 </resources>
